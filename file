@@ -7,3 +7,4 @@ systemctl start httpd
 systemctl enable httpd
 cd /var/www/html
 echo "Hi" > index.html
+echo "welcom" > index.html
